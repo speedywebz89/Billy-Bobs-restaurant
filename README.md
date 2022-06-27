@@ -1,2 +1,3 @@
 # Billy-Bobs-restaurant
 This was a fun and simple website. Showcasing how sometimes simple is better.
+Fun website i built while applying for General Assembly coding bootcamp. This website has my own twist on it. At this point i have been back coding for about a month and a half and this project was challening my skills with DIVS and Linear-gradients with webkits. Its amazing what you can create with such little coding. This website is not only visually appealing but also a solid idea for any start up business. simple and easy on the eyes. This website is also mobile friendly! Thanks for looking!
